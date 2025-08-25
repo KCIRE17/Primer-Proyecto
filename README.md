@@ -1,2 +1,2 @@
 # Análisis de sentimientos de reseñas de películas.
-Creando un proyecto donde ejecuto mis habilidades duras con respecto a análisis de datos
+El objetivo es analizar un conjunto de datos de reseñas de películas para determinar si el sentimiento de cada reseña es positivo o negativo.
