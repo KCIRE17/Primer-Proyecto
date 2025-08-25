@@ -19,12 +19,8 @@ El modelo de clasificación **Naive Bayes** demostró ser efectivo en la tarea d
 * **Precisión del modelo:** 85 %
 * **Informe de Clasificación:**  
   
-Métrica	Precision	Recall	F1-Score	Support
-Negative	0.85	   0.85	   0.85   	4961
-Positive	0.85   	0.85	   0.85	    5039
-Accuracy			             0.85	    10000
-Macro avg	0.85	  0.85	   0.85	    10000
-Weighted avg	0.85	0.85	 0.85   	10000
+<img width="517" height="200" alt="image" src="https://github.com/user-attachments/assets/c299f01e-abcb-4d0f-afe7-1208a49cb769" />
+
 
 **Conclusión:**
 Los resultados obtenidos demuestran que el modelo es capaz de clasificar las reseñas con una **precisión** del 85 %, lo que lo convierte en una solución viable para predecir el sentimiento de nuevas reseñas de películas. Esto demuestra la capacidad de las técnicas de **NLP** (Procesamiento del Lenguaje Natural) para extraer información útil de datos no estructurados.
