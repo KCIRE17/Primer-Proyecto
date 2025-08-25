@@ -1,5 +1,6 @@
 # Análisis de sentimientos de reseñas de películas.
 **Autor:** Erick Ilares
+
 Este proyecto se centra en el análisis y categorización de sentimientos (positivo o negativo) de un conjunto de datos de 50,000 reseñas de películas. El objetivo ha sido construir un modelo de Machine Learning que pueda ser capaz de predecir el sentimiento de una reseña basándose en su texto.
 
 ### 🚀 Resumen del Proceso
